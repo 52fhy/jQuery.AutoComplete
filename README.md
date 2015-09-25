@@ -1,5 +1,3 @@
-jQuery.AutoComplete
-
 [jQuery.AutoComplete](http://work.jiani.info/jQuery.AutoComplete/)
 =================
 jQuery.AutoComplete是一个基于jQuery的自动补全插件。借助于jQuery优秀的跨浏览器特性，可以兼容Chrome/IE/Firefox/Opera/Safari等多种浏览器。
