@@ -24,7 +24,7 @@ jQuery.AutoComplete是一个基于jQuery的自动补全插件。借助于jQuery�
  
 ##一、如何使用：
 
-   引入`jquery.autocomplete.js` 和 `jquery.autocomplete.css 文件到你的页面中。
+   引入`jquery.autocomplete.js` 和 `jquery.autocomplete.css` 文件到你的页面中。
    
 ##二、参数说明：
 
