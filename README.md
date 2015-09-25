@@ -4,8 +4,6 @@ jQuery.AutoComplete是一个基于jQuery的自动补全插件。借助于jQuery�
 
 ![ScreenShot](http://images.cnitblog.com/blog2015/663847/201504/251607339218146.jpg)
 
-jQuery.AutoComplete是一个基于jQuery的自动补全插件。借助于jQuery优秀的跨浏览器特性，可以兼容Chrome/IE/Firefox/Opera/Safari等多种浏览器。
-
 ##特性一览：
 
 * 支持补全列表的宽度设定。
